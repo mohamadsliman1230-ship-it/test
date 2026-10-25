@@ -1,0 +1,19 @@
+# Python cache
+pycache/
+*.pyc
+
+# Virtual environments
+venv/
+fastapienv/
+
+# Environment variables and secrets
+.env
+
+# Database files
+*.db
+
+# Uploaded files
+uploads/
+
+# Log files
+*.log
